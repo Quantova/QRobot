@@ -1,0 +1,6 @@
+node_modules/
+*.qrobot.json
+*.pending.json
+*.key
+.env*
+native/target/
